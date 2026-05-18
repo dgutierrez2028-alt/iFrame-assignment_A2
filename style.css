@@ -5,6 +5,7 @@ body {
 
 h2, p {
   margin: 10px;
+  color: purple
 }
 
 ul {
@@ -13,10 +14,12 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
+  font: serif
 }
 
 ul li {
   float: left;
+  color: blue
 }
 
 ul li a {
@@ -25,6 +28,7 @@ ul li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  color: red
 }
 
 ul li a:hover {
