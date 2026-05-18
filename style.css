@@ -6,6 +6,7 @@ body {
 h2, p {
   margin: 10px;
   color: purple
+  font-size: 10px;
 }
 
 ul {
